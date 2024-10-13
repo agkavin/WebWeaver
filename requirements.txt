@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+html2text
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-text-splitters
+duckduckgo-search
+chromadb
+
